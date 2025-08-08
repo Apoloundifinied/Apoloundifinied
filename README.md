@@ -11,7 +11,7 @@
 ```
 
 - 🌑 Vivendo no terminal desde sempre
-- ⚡ Stack afiada com React, Node.js, Laravel, Python
+- ⚡ Stack afiada com React, Node.js, SpringBoot, Java
 - 🤖 Especialista em bots para Discord, Telegram e automações obscuras
 - 🧬 Linux user hardcore (Arch btw)
 - 🛠️ Criando, quebrando, rebuildando
