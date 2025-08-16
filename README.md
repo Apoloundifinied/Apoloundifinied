@@ -57,9 +57,6 @@
 └──╼ # echo "Últimas palavras:"
 ```
 
-> “Hack the planet. Deploy the future.”
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Apoloundifinied&label=Visitors&color=purple" alt="Profile views" />
