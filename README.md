@@ -1,5 +1,9 @@
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%24+whoami;Apoloundifinied+--+Fullstack+on+Linux+Mode" alt="Typing SVG" /></h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoloundifinied&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 
 ```
 🧠 FULLSTACK DEV | 🐧 LINUX USER | 🤖 BOT ARCHITECT
@@ -36,14 +40,6 @@
 ```sh
 ┌─[root@archlinux]─[~/Apoloundifinied]
 └──╼ # curl github.com/Apoloundifinied/status
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoloundifinied&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
----
 
 ```sh
 ┌─[root@archlinux]─[~/Apoloundifinied]
