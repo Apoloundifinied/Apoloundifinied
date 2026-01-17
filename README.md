@@ -13,14 +13,7 @@
 
 ---
 
-### 🚀 Sobre Mim
 
-- 👨‍💻 Desenvolvedor focado em criar soluções Full Stack escaláveis.
-- 🤖 Apaixonado por **Automação** e projetos envolvendo **Python** e Webscrapper.
-- 🎓 Constantemente explorando novas tecnologias em **Cloud** e **DevOps**.
-- 💼 Confira meus projetos principais em: [portifolio-preve.vercel.app](https://portifolio-preve.vercel.app/)
-
----
 
 ### 🛠 Tecnologias e Ferramentas
 
