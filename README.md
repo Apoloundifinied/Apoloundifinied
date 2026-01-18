@@ -1,4 +1,3 @@
-<h1 align="center">magistraL</h1>
 <h3 align="center">Fullstack Developer • Frontend • Backend • Automation</h3>
 
 <p align="center">
