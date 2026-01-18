@@ -1,16 +1,17 @@
 <div align="center">
-  <!-- Banner de Boas-vindas --><img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=250&section=header&text=Olá,%20sou%20magistraL!&fontSize=70&animation=fadeIn" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=Olá,%20sou%20magistraL!&fontSize=60&animation=fadeIn" width="100%" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Front-end+%7C+Back-end+%7C+Automação;Criando+soluções+reais" />
 
-  <h3>Front-end • Back-end • Automação</h3>
+<h3>Front-end • Back-end • Automação</h3>
 
-  <p>
-    <a href="https://portifolio-preve.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Meu%20Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
+<a href="https://portifolio-preve.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 </div>
+
 
 ---
 
