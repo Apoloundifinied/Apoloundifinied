@@ -13,7 +13,8 @@
 </div>
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
+
 
 
 
@@ -56,9 +57,10 @@
 ###  Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoloundifinied&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoloundifinied&layout=compact&theme=dracula&hide_border=true"/>
 </div>
+
 
 
 ---
@@ -71,6 +73,5 @@
   </a>
 </p>
 
-<div align="center">
-  <sub>Feito por magistraL</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+
