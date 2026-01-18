@@ -1,5 +1,5 @@
 <h1 align="center">magistraL</h1>
-<h3 align="center">Fullstack Developer • Frontend • Backend • Automation</h3>
+<h3 align="center"> <h3> Frontend • Backend • Automation</h3>
 
 <p align="center">
   Desenvolvedor fullstack focado em aplicações modernas, APIs e automação, com atenção à performance, organização e escalabilidade.
