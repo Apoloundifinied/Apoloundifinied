@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner de Boas-vindas -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=250&section=header&text=Olá,%20sou%20magistraL!&fontSize=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=250&section=header&text=Olá,%20sou%20magistraL!&fontSize=70&animation=fadeIn" width="100%" />
 
 
   <h3>Front-end • Back-end • Automação</h3>
