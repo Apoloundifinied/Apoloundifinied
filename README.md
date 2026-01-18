@@ -1,68 +1,80 @@
-<!-- =====================================================================
-     ╔════════════════════════════════════════════════════════════╗
-     ║                  EMPREENDEDNDO • DEV & MAKER               ║
-     ╚════════════════════════════════════════════════════════════╝
-===================================================================== -->
+<h1 align="center">magistraL</h1>
+<h3 align="center">Fullstack Developer • Frontend • Backend • Automação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4200&pause=1200&color=00FF9D&center=true&vCenter=true&width=580&lines=Olá%2C+eu+sou+Empreendendo;Full-Stack+%26+Automation+Enthusiast;Construindo+coisas+que+facilitam+vida;Linux+%7C+Python+%7C+Infra+%7C+Open+Source" alt="Typing SVG" />
+  Desenvolvedor fullstack focado em aplicações modernas, APIs, automação de processos e soluções escaláveis.
 </p>
 
-<!-- Foto / avatar estilizado (opcional – substitua pelo seu) -->
+---
+
+## Sobre mim
+
+- Desenvolvedor Fullstack
+- Experiência com Python, TypeScript e JavaScript
+- Atuação em Frontend, Backend e Automação
+- Desenvolvimento de aplicações web, APIs e bots
+- Ambiente principal: Linux
+
+**Portfólio:** https://portifolio-preve.vercel.app  
+**Discord:** yamii1720  
+
+---
+
+## Tecnologias
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+## O que eu desenvolvo
+
+- Interfaces modernas e responsivas
+- APIs REST e GraphQL
+- Automações, bots e scraping
+- Integração frontend e backend
+- Aplicações focadas em performance e escalabilidade
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github.com/SEU_USER.png" width="160" height="160" style="border-radius:50%; border: 4px solid #00ff9d33;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&hide_border=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoloundifinied&hide_border=true&theme=tokyonight" width="45%"/>
 </p>
 
-<!-- Linha decorativa suave -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/dBaSKWF.gif" height="3" width="100%" />
-
-<!-- Stats principais – tema clean & neon sutil -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&line_height=28&hide=contribs&rank_icon=github" width="420" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=dracula&hide_border=true&border_radius=12&date_format=j+M%5B+D%5D&fire=00ff9d&ring=00ff9d&currStreakNum=00ff9d" width="420" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USER&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8&hide=html,css&card_width=420" />
+  Código limpo, soluções práticas e foco em resultado.
 </p>
-
-<!-- Capsule header estilizado -->
-<img src="https://capsule-render.vercel.app/api?type=slice&height=60&section=header&text=Skills%20%26%20Tools&fontSize=28&fontColor=fff&color=gradient:0:#0f0f23,100:#001f1f&animation=twinkling" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
-
-<!-- Frase ou joke leve -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" width="380" alt="Random dev joke" />
-</p>
-
-<!-- Snake – final aesthetic touch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake.svg" width="80%" />
-  </picture>
-</p>
-
-<!-- Footer minimalista -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USER&label=Profile+views&color=00ff9d&style=flat-square" />
-</p>
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
-  <small>— Cory House</small>
-</p>
-
-<!-- =====================================================================
-     Feito com ♥ e muito café • 2026 • Rio Grande do Sul, BR
-===================================================================== -->
