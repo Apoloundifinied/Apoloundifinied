@@ -1,80 +1,73 @@
 <h1 align="center">magistraL</h1>
-<h3 align="center">Fullstack Developer • Frontend • Backend • Automação</h3>
+<h3 align="center">Fullstack Developer • Frontend • Backend • Automation</h3>
 
 <p align="center">
-  Desenvolvedor fullstack focado em aplicações modernas, APIs, automação de processos e soluções escaláveis.
+  Desenvolvedor fullstack focado em aplicações modernas, APIs e automação, com atenção à performance, organização e escalabilidade.
+</p>
+
+<p align="center">
+  <a href="https://portifolio-preve.vercel.app">Portfolio</a> •
+  <a href="https://discord.com/users/yamii1720">Discord</a>
 </p>
 
 ---
 
-## Sobre mim
+## About
 
-- Desenvolvedor Fullstack
-- Experiência com Python, TypeScript e JavaScript
-- Atuação em Frontend, Backend e Automação
-- Desenvolvimento de aplicações web, APIs e bots
-- Ambiente principal: Linux
-
-**Portfólio:** https://portifolio-preve.vercel.app  
-**Discord:** yamii1720  
+- Fullstack Developer  
+- Python, TypeScript e JavaScript  
+- Frontend, Backend e Automação  
+- APIs, bots e aplicações web  
+- Ambiente principal: Linux  
 
 ---
 
-## Tecnologias
+## Stack
 
 ### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36"/>
 </p>
 
 ### Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
 </p>
 
-### Ferramentas
+### Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36"/>
 </p>
 
 ---
 
-## O que eu desenvolvo
-
-- Interfaces modernas e responsivas
-- APIs REST e GraphQL
-- Automações, bots e scraping
-- Integração frontend e backend
-- Aplicações focadas em performance e escalabilidade
-
----
-
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&hide_border=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apoloundifinied&hide_border=true&theme=tokyonight" width="45%"/>
+  <img
+    src="https://github.com/Apoloundifinied/Apoloundifinied/blob/main/github-metrics.svg"
+    alt="GitHub Metrics"
+    width="85%"
+  />
 </p>
 
 ---
 
 <p align="center">
-  Código limpo, soluções práticas e foco em resultado.
+  Clean code. Practical solutions. Focus on results.
 </p>
