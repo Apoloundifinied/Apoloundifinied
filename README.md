@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=Olá,%20sou%20magistraL!&fontSize=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=magistraL&fontSize=50&fontColor=FFFFFF&color=0d1117" width="100%">
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Front-end+%7C+Back-end+%7C+Automação;Criando+soluções+reais" />
 
@@ -73,5 +74,5 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
