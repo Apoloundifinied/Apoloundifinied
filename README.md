@@ -1,90 +1,68 @@
-<div align="center">
+<!-- =====================================================================
+     ╔════════════════════════════════════════════════════════════╗
+     ║                  EMPREENDEDNDO • DEV & MAKER               ║
+     ╚════════════════════════════════════════════════════════════╝
+===================================================================== -->
 
-<div align="center">
-
-<pre>
-███╗   ███╗ █████╗  ██████╗ ██╗███████╗████████╗██████╗  █████╗ ██╗     
-████╗ ████║██╔══██╗██╔════╝██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║     
-██╔████╔██║███████║██║     ██║███████╗   ██║   ██████╔╝███████║██║     
-██║╚██╔╝██║██╔══██║██║     ██║╚════██║   ██║   ██╔══██╗██╔══██║██║     
-██║ ╚═╝ ██║██║  ██║╚██████╗██║███████║   ██║   ██║  ██║██║  ██║███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-</pre>
-
-</div>
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Front-end+%7C+Back-end+%7C+Automação;Criando+soluções+reais" />
-
-<h3>Front-end • Back-end • Automação</h3>
-
-<a href="https://portifolio-preve.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-</div>
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
-
-
-
-
-### 🛠 Tecnologias e Ferramentas
-
-#### 💻 Front-end
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=4200&pause=1200&color=00FF9D&center=true&vCenter=true&width=580&lines=Olá%2C+eu+sou+Empreendendo;Full-Stack+%26+Automation+Enthusiast;Construindo+coisas+que+facilitam+vida;Linux+%7C+Python+%7C+Infra+%7C+Open+Source" alt="Typing SVG" />
 </p>
 
-#### ⚙️ Back-end & Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+<!-- Foto / avatar estilizado (opcional – substitua pelo seu) -->
+<p align="center">
+  <img src="https://github.com/SEU_USER.png" width="160" height="160" style="border-radius:50%; border: 4px solid #00ff9d33;" />
 </p>
 
-####  Ferramentas & Infra
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+<!-- Linha decorativa suave -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/dBaSKWF.gif" height="3" width="100%" />
+
+<!-- Stats principais – tema clean & neon sutil -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dracula&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&line_height=28&hide=contribs&rank_icon=github" width="420" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=dracula&hide_border=true&border_radius=12&date_format=j+M%5B+D%5D&fire=00ff9d&ring=00ff9d&currStreakNum=00ff9d" width="420" />
 </p>
 
----
-
-###  Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Apoloundifinied&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apoloundifinied&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
-
-
----
-
-###  Conecte-se comigo:
-
-<p align="left">
-  <a href="https://discord.gg/yamii1720" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USER&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8&hide=html,css&card_width=420" />
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<!-- Capsule header estilizado -->
+<img src="https://capsule-render.vercel.app/api?type=slice&height=60&section=header&text=Skills%20%26%20Tools&fontSize=28&fontColor=fff&color=gradient:0:#0f0f23,100:#001f1f&animation=twinkling" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+</p>
+
+<!-- Frase ou joke leve -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" width="380" alt="Random dev joke" />
+</p>
+
+<!-- Snake – final aesthetic touch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU_USER/SEU_USER/output/github-snake.svg" width="80%" />
+  </picture>
+</p>
+
+<!-- Footer minimalista -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USER&label=Profile+views&color=00ff9d&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  <small>— Cory House</small>
+</p>
+
+<!-- =====================================================================
+     Feito com ♥ e muito café • 2026 • Rio Grande do Sul, BR
+===================================================================== -->
