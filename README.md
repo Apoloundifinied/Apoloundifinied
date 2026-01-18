@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=magistraL&fontSize=50&fontColor=FFFFFF&color=0d1117" width="100%">
+<div align="center">
+
+<pre>
+███╗   ███╗ █████╗  ██████╗ ██╗███████╗████████╗██████╗  █████╗ ██╗     
+████╗ ████║██╔══██╗██╔════╝██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║     
+██╔████╔██║███████║██║     ██║███████╗   ██║   ██████╔╝███████║██║     
+██║╚██╔╝██║██╔══██║██║     ██║╚════██║   ██║   ██╔══██╗██╔══██║██║     
+██║ ╚═╝ ██║██║  ██║╚██████╗██║███████║   ██║   ██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
+
+</div>
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Front-end+%7C+Back-end+%7C+Automação;Criando+soluções+reais" />
