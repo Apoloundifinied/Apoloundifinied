@@ -4,7 +4,7 @@
   <br/>
 
   <!-- Frontend / Mobile -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,vue,tailwind" height="60" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" height="60" />
   <br/>
 
   <!-- Backend / APIs -->
