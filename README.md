@@ -1,9 +1,18 @@
+## Front-end · Back-end · Automation · AI  
+*Does it seem impossible? I can build it.*
+
+I design and build scalable applications, automations, and intelligent systems — from interface to infrastructure.
+
+---
+
+### Tech Stack
+
 <div align="center">
-  <!-- Linguagens -->
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" height="60" />
   <img width="12" />
 
-  <!-- Frontend / Mobile -->
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" height="60" />
   <img width="12" />
 
@@ -11,30 +20,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="60" />
   <img width="12" />
 
-  <!-- Automação / Bots / IA -->
+  <!-- Automation / Bots / AI -->
   <img src="https://skillicons.dev/icons?i=selenium,discordjs,python" height="60" />
   <img width="12" />
 
-  <!-- Banco de Dados -->
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="60" />
   <img width="12" />
 
   <!-- DevOps / Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,linux,git" height="60" />
-  <img width="12" />
-
-  <!-- Linux Distros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" />
 </div>
 
+---
 
-
-
-
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -45,5 +45,9 @@
     src="https://raw.githubusercontent.com/Apoloundifinied/Apoloundifinied/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
-###
+### Featured Links
+
+- 🌐 Portfolio: https://portifolio-preve.vercel.app/
+- 💼 GitHub Projects: https://github.com/Apoloundifinied
