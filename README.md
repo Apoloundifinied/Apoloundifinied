@@ -42,7 +42,6 @@ I design and build scalable applications, automations, and intelligent systems â
 <img src="https://img.shields.io/badge/Boris%20FX-111111?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sapphire-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
