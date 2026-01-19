@@ -48,6 +48,16 @@ I design and build scalable applications, automations, and intelligent systems â
 
 ---
 
+
+### Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31o3tl32rhg6sluy3oomlmjnqfnu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o3tl32rhg6sluy3oomlmjnqfnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+  </a>
+</p>
+
+
 ### Contributions
 
 <picture>
