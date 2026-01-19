@@ -37,17 +37,15 @@ I design and build scalable applications, automations, and intelligent systems â
 ### Creative & Editing Tools
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Vegas_Pro_logo.svg" height="55" />
-  <img width="16" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Boris_FX_Logo.svg" height="55" />
-  <img width="16" />
+<img src="https://img.shields.io/badge/Sony%20Vegas-000000?style=for-the-badge&logo=sony&logoColor=white" />
+<img src="https://img.shields.io/badge/Boris%20FX-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sapphire-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Sapphire_Logo.svg" height="55" />
-  <img width="16" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="55" />
 </div>
+
 
 ---
 
