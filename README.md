@@ -1,40 +1,54 @@
-## Front-end · Back-end · Automation · AI  
-*Does it seem impossible? I can build it.*
+# Fullstack · Mobile · Automation · AI
 
-I design and build scalable applications, automations, and intelligent systems — from interface to infrastructure.
+Does it seem impossible? I can build it.
+
+I design and build scalable applications, automations, and intelligent systems — from interface to infrastructure.  
+Web, mobile, backend, workflows, and AI integrated into real-world solutions.
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" height="60" />
-  <img width="12" />
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" height="60" />
-  <img width="12" />
+<!-- Core Languages -->
+<img src="https://skillicons.dev/icons?i=ts,js,py,html,css" height="60" />
+<img width="12" />
 
-  <!-- Backend / APIs -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="60" />
-  <img width="12" />
+<!-- Frontend Web -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" height="60" />
+<img width="12" />
 
-  <!-- Automation / Bots / AI -->
-  <img src="https://skillicons.dev/icons?i=selenium,discordjs,python" height="60" />
-  <img width="12" />
+<!-- Mobile -->
+<img src="https://skillicons.dev/icons?i=react,expo" height="60" />
+<img width="12" />
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="60" />
-  <img width="12" />
+<!-- Backend / APIs -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql" height="60" />
+<img width="12" />
 
-  <!-- DevOps / Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,vscode" height="60" />
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,redis" height="60" />
+<img width="12" />
+
+<!-- Automation / AI / Workflows -->
+<img src="https://skillicons.dev/icons?i=selenium,python" height="60" />
+<img width="12" />
+<img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" />
+<img width="12" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<img width="12" />
+
+<!-- DevOps / Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git" height="60" />
+
 </div>
 
 ---
 
-### Creative & Editing Tools
+## Creative & Editing Tools
 
 <div align="center">
 
@@ -45,15 +59,9 @@ I design and build scalable applications, automations, and intelligent systems �
 
 </div>
 
-
 ---
 
-
-
-
-
-
-### Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -63,5 +71,3 @@ I design and build scalable applications, automations, and intelligent systems �
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/Apoloundifinied/Apoloundifinied/output/pacman-contribution-graph.svg">
 </picture>
-
----
